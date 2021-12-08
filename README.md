@@ -1,6 +1,6 @@
 # Light Blue Theme For Mailspring 
 
-
+![Screenshot](./screenshot/screenshot.png)
 
 ## Getting Started
 
