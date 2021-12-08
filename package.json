@@ -1,0 +1,13 @@
+{
+  "name": "sukpmp",
+  "title": "Costum Mailspring theme",
+  "displayName": "Sukpmp",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A great light theme for Sukpmp.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
