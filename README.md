@@ -1,5 +1,6 @@
 # Light Blue Theme For Mailspring 
-
+> A costum light theme for [Mailspring](https://github.com/Foundry376/Mailspring).
+> 
 ![Screenshot](./screenshot/screenshot.png)
 
 ## Getting Started
