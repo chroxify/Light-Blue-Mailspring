@@ -12,7 +12,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
    ```
 
 #### Install manually
-Download using the [Github .zip download](https://github.com/Chroxify/Sweet-Mailspring/archive/refs/heads/main.zip) option and unzip them. 
+Download using the [Github .zip download](https://github.com/Chroxify/light-blue-Mailspring/archive/refs/heads/master.zip) option and unzip them. 
 
 ### Activate the Theme
 1. Open Mailspring
